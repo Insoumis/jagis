@@ -16,6 +16,6 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  Alors, jusqu'où irez-vous ? :)
  
  Bonus : 
-  - [ ] Je m'abonne à Fakir ! 
+ - [ ] Je m'abonne à Fakir ! 
  
  ![logo](https://actus.jlm2017.fr/app/uploads/2016/06/actualites-jlm-2017-la-france-insoumise.jpg)
