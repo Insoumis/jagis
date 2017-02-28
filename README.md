@@ -8,3 +8,6 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  - [ ] Commander pour soi un exemplaire de l'avenir en commun http://lavenirencommun.fr/
  - [ ] Commander un exemplaire de l'avenir en commun et le laisser dans une salle d'attente quelconque http://lavenirencommun.fr/
  - [ ] [Venir le 18 mars à Paris, place de la Bastille](http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017) (marche pour la 6ème République)
+ - [ ] Convaincre 5 personnes d'aller voter
+ - [ ] Convaincre 5 personnes de voter Mélenchon aux présidentielles
+ 
