@@ -2,13 +2,13 @@
 
 Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'actions de base à mener :)
 
-## C'est rapide et pas cher !
+## C'est le minimum !
 
  - [ ] Appuyer la candidature de Jean-Luc Mélenchon sur http://jlm2017.fr.
  
  - [ ] S'abonner à sa chaine [youtube](https://www.youtube.com/user/placeaupeuple), sa [page facebook](https://www.facebook.com/JLMelenchon/) et son [twitter](https://twitter.com/jlmelenchon).
  
-## Ça coûte de l'argent :
+## Ça coûte un petit peu :
  
  - [ ] Commander pour soi un exemplaire de l'avenir en commun : http://lavenirencommun.fr/.
  
@@ -16,7 +16,7 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  
  - [ ] [Donner pour la campagne](https://dons.jlm2017.fr/) (don moyen de 25 € à ce jour).
  
-## Il faut se déplacer IRL :
+## Il faut réinvestir la rue :
  
  - [ ] [Venir le 18 mars à Paris, place de la Bastille](http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017) (marche pour la 6ème République).
  
@@ -40,7 +40,7 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
    
 ## En exclusivité sur internet !
  
- - [ ] Je m'abonne à Fakir ! 
+ - [ ] Je [m'abonne à Fakir](http://www.fakirpresse.info/boutique/13-s-abonner) ! 
  
  - [ ] Je follow les [comptes twitter listés sur le Portail Insoumis](http://insoumis.online/twitter)
  
