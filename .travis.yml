@@ -16,4 +16,4 @@ install:
 script: ./build.sh
 
 after_success:
-    - firebase deploy --email ${FIREBASE_EMAIL} --password ${FIREBASE_PASSWORD}
+    - firebase deploy --token "${FIREBASE_TOKEN}"
