@@ -8,7 +8,7 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  
  - [ ] S'abonner à sa chaine [youtube](https://www.youtube.com/user/placeaupeuple), sa [page facebook](https://www.facebook.com/JLMelenchon/) et son [twitter](https://twitter.com/jlmelenchon).
  
- ## Ça coûte de l'argent :
+## Ça coûte de l'argent :
  
  - [ ] Commander pour soi un exemplaire de l'avenir en commun : http://lavenirencommun.fr/.
  
@@ -16,7 +16,7 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  
  - [ ] [Donner pour la campagne](https://dons.jlm2017.fr/) (don moyen de 25 € à ce jour).
  
- ## Il faut se déplacer IRL :
+## Il faut se déplacer IRL :
  
  - [ ] [Venir le 18 mars à Paris, place de la Bastille](http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017) (marche pour la 6ème République).
  
@@ -51,7 +51,7 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  - [ ] Je passe jeter un oeil aux [ressources diverses listées sur le Portail Insoumis](http://insoumis.online/autres-ressources)
  
  
- # Alors, jusqu'où irez-vous ? :)
+# Alors, jusqu'où irez-vous ? :)
  
 
  
