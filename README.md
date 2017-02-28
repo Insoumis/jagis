@@ -50,6 +50,7 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  
  - [ ] Je passe jeter un oeil aux [ressources diverses listées sur le Portail Insoumis](http://insoumis.online/autres-ressources)
  
+ - [ ] Je rejoins le [groupe de soutien insoumis numériques](http://www.jlm2017.fr/discord/les_insoumis_num_riques?recruiter_id=781398)
  
 # Alors, jusqu'où irez-vous ? :)
  
