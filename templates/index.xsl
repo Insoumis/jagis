@@ -22,7 +22,7 @@
             </head>
             <body>
                 <h1>Check-list du militant insoumis</h1>
-                
+                <div class="container">
                 <xsl:for-each select="/categories/categorie">
                     <h2><xsl:value-of select="./@nom" /></h2>
                     <ul class="actions">
@@ -37,7 +37,8 @@
                             </li>
                         </xsl:for-each>
                     </ul>
-                </xsl:for-each>    
+                </xsl:for-each>
+                </div>
                 
             </body>
         </html>
