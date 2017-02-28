@@ -13,33 +13,34 @@
                       width: 15em;
                     }
                     
-                    ul.actions li div {
+                    ol.actions li div {
                       display: table-cell;
                       vertical-align: middle;
-                      height: 2em;
                     }
                 </style>
             </head>
             <body>
-                <h1>Check-list du militant insoumis</h1>
                 <div class="container">
+                    
+                <h1>Check-list du militant insoumis</h1>
+                
                 <xsl:for-each select="/categories/categorie">
                     <h2><xsl:value-of select="./@nom" /></h2>
-                    <ul class="actions">
+                    <ol class="actions">
                         <xsl:for-each select="./action">
                             <li>
                                 <div>
-                                    <input type="checkbox" /> <xsl:copy-of select="." />
+                                    <input type="checkbox" /> <span class="action"><xsl:copy-of select="." /></span>
                                     <xsl:if test="./@progression">
                                         <input type="range" value="0" max="{./@progression}" min="0" step="1" />
                                     </xsl:if>
                                 </div>
                             </li>
                         </xsl:for-each>
-                    </ul>
+                    </ol>
                 </xsl:for-each>
-                </div>
                 
+                </div>
             </body>
         </html>
     </xsl:template>
