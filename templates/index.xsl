@@ -10,13 +10,13 @@
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
                 <style type="text/css">
                     input[type="range"] {
-                    width: 15em;
+                      width: 15em;
                     }
                     
                     ul.actions li div {
-                    display: table-cell;
-                    vertical-align: middle;
-                    height: 2em;
+                      display: table-cell;
+                      vertical-align: middle;
+                      height: 2em;
                     }
                 </style>
             </head>
