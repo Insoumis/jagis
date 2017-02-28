@@ -2,7 +2,7 @@
 
 Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'actions de base à mener :)
 
-## C'est le minimum !
+## C'est vraiment le minimum !
 
  - [ ] Appuyer la candidature de Jean-Luc Mélenchon sur http://jlm2017.fr.
  
