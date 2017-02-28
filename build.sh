@@ -1,1 +1,1 @@
-saxonb-xslt -s:liste.xml -xsl:process.xsl -o:public/index.html -ext:on
+saxonb-xslt -s:liste.xml -xsl:template.xsl -o:public/index.html -ext:on
