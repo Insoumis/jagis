@@ -4,6 +4,14 @@
         <action>S'abonner à sa chaîne <a href="https://www.youtube.com/user/placeaupeuple">youtube</a>, sa <a href="https://www.facebook.com/JLMelenchon">page facebook</a> et son <a href="https://twitter.com/jlmelenchon">twitter</a>.</action>
     </categorie>
     
+    <categorie nom="Ça se passe sur Internet">
+        <action>Je suis les <a href="http://insoumis.online/twitter">comptes twitter du portail insoumis</a>.</action>
+        <action>Je m'abonne aux chaînes youtube listées sur <a href="http://insoumis.online/youtube">le portail insoumis</a> <b>en veillant bien</b> à cliquer sur la petite cloche.</action>
+        <action>Je "like" les pages facebook citées sur <a hre="http://insoumis.online/facebook">le portail insoumis</a>.</action>
+        <action progression="3">Je regarde les ressources du <a href="http://insoumis.online/autres-ressources">portain insoumis</a> et j'en partage 3 sur les réseaux sociaux.</action>
+        <action>Je soutiens le <a href="http://www.jlm2017.fr/discord/les_insoumis_num_riques?recruiter_id=781398">groupe d'appui des insoumis numériques</a></action>
+    </categorie>
+    
     <categorie nom="Ça coûte un petit peu !">
         <action>Commander pour soi un exemplaire l'avenir en commun sur <a href="http://avenirencommun.fr/">http://avenirencommun.fr/</a> (3 €)</action>
         <action>Commander un exemplaire de l'avenir en commun pour le laisser dans une salle d'attente (par exemple celle de votre médecin traitant) (3 €)</action>
@@ -19,9 +27,5 @@
     <categorie nom="Il faut convaincre !">
         <action progression="5">Convaincre 5 personnes d'aller voter</action>
         <action progression="3">Convaincre 3 personnes d'aller voter pour Jean-Luc Mélenchon</action>
-    </categorie>
-    
-    <categorie nom="Ça se passe sur Internet">
-        <action>Je suis les <a href="http://insoumis.online/twitter">comptes twitter du portail insoumis</a></action>
     </categorie>
 </categories>
