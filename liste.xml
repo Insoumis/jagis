@@ -1,0 +1,27 @@
+<categories>
+    <categorie nom="C'est vraiment le minimum !">
+        <action>Appuyer la candidature de <a href="http://jlm2017.fr">Jean-Luc Mélenchon sur jlm2017.fr</a></action>
+        <action>S'abonner à sa chaîne <a href="https://www.youtube.com/user/placeaupeuple">youtube</a>, sa <a href="https://www.facebook.com/JLMelenchon">page facebook</a> et son <a href="https://twitter.com/jlmelenchon">twitter</a>.</action>
+    </categorie>
+    
+    <categorie nom="Ça coûte un petit peu !">
+        <action>Commander pour soi un exemplaire l'avenir en commun sur <a href="http://avenirencommun.fr/">http://avenirencommun.fr/</a> (3 €)</action>
+        <action>Commander un exemplaire de l'avenir en commun pour le laisser dans une salle d'attente (par exemple celle de votre médecin traitant) (3 €)</action>
+        <action><a href="https://dons.jlm2017.fr/">Donner pour la campagne</a> (don moyen de 25 € à ce jour)</action>
+    </categorie>
+    
+    <categorie nom="Ça se passe dehors !">
+        <action><a href="http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017">Venir le 18 mars à Paris, place de la Bastille, rejoindre la marche pour la 6ème République.</a></action>
+        <action><a href="http://jlm2017.fr/carte">Rejoindre un groupe de soutien</a></action>
+        <action>Écouler un <a href="https://materiel.jlm2017.fr/produit/kit-de-10-programmes-lavenir-commun/">kit volontaire</a></action>
+    </categorie>
+    
+    <categorie nom="Il faut convaincre !">
+        <action progression="5">Convaincre 5 personnes d'aller voter</action>
+        <action progression="3">Convaincre 3 personnes d'aller voter pour Jean-Luc Mélenchon</action>
+    </categorie>
+    
+    <categorie nom="Ça se passe sur Internet">
+        <action>Je suis les <a href="http://insoumis.online/twitter">comptes twitter du portail insoumis</a></action>
+    </categorie>
+</categories>
