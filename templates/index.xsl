@@ -15,6 +15,7 @@
                 </style>
             </head>
             <body>
+                <div class="container">
                 <h1>Check-list du militant insoumis</h1>
 
                 <xsl:for-each select="/categories/categorie">
@@ -30,7 +31,8 @@
                         </xsl:for-each>
                     </ul>
                 </xsl:for-each>        
-                
+                </div>
+
             </body>
         </html>
     </xsl:template>
