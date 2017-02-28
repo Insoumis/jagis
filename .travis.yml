@@ -1,0 +1,19 @@
+sudo: false
+dist: trusty
+language: node_js
+
+cache: apt
+
+addons:
+  apt:
+    packages:
+    - libsaxonb-java
+    - default-jre
+
+install:
+    - npm install -g firebase-tools
+
+script: ./build.sh
+
+after_success:
+    - firebase deploy --email ${FIREBASE_EMAIL} --password ${FIREBASE_PASSWORD}
