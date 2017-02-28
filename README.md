@@ -10,9 +10,9 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  
 ## Ça coûte un petit peu :
  
- - [ ] Commander pour soi un exemplaire de l'avenir en commun : http://lavenirencommun.fr/.
+ - [ ] Commander pour soi un exemplaire de l'avenir en commun : http://lavenirencommun.fr/. (3 €)
  
- - [ ] Commander un exemplaire de l'avenir en commun et le laisser dans une salle d'attente (par exemple celle de votre médecin traitant) : http://lavenirencommun.fr/.
+ - [ ] Commander un exemplaire de l'avenir en commun et le laisser dans une salle d'attente (par exemple celle de votre médecin traitant) : http://lavenirencommun.fr/. (3 €)
  
  - [ ] [Donner pour la campagne](https://dons.jlm2017.fr/) (don moyen de 25 € à ce jour).
  
