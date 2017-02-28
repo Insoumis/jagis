@@ -14,7 +14,7 @@
                     <h2><xsl:value-of select="./@nom" /></h2>
                     <ul>
                         <xsl:for-each select="./action">
-                            <li><input type="checkbox" /> <xsl:value-of select="." /></li>
+                            <li><input type="checkbox" /> <xsl:copy-of select="." /></li>
                         </xsl:for-each>
                     </ul>
                 </xsl:for-each>        
