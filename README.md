@@ -16,6 +16,8 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
  
  - [ ] [Donner pour la campagne](https://dons.jlm2017.fr/) (don moyen de 25 € à ce jour).
  
+ - [ ] Je [m'abonne à Fakir](http://www.fakirpresse.info/boutique/13-s-abonner) ! (min. 25€)
+ 
 ## Il faut réinvestir la rue :
  
  - [ ] [Venir le 18 mars à Paris, place de la Bastille](http://www.jlm2017.fr/rendez_vous_place_de_la_bastille_le_18_mars_2017) (marche pour la 6ème République).
@@ -39,8 +41,6 @@ Bienvenue parmi les insoumis. Pour nous aider à militer, voici une liste d'acti
    - [ ] Personne 3
    
 ## En exclusivité sur internet !
- 
- - [ ] Je [m'abonne à Fakir](http://www.fakirpresse.info/boutique/13-s-abonner) ! 
  
  - [ ] Je follow les [comptes twitter listés sur le Portail Insoumis](http://insoumis.online/twitter)
  
