@@ -6,15 +6,15 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link href="/elements/favicon-apple-touch-icon.png" sizes="180x180" rel="apple-touch-icon">
-                <link sizes="32x32" href="/elements/favicon-32x32.png" type="image/png" rel="icon">
-                <link sizes="16x16" href="/elements/favicon-16x16.png" type="image/png" rel="icon">
-                <link color="#0198b5" href="/elements/favicon-safari-pinned-tab.svg" rel="mask-icon">
+                <link href="/elements/favicon-apple-touch-icon.png" sizes="180x180" rel="apple-touch-icon" />
+                <link sizes="32x32" href="/elements/favicon-32x32.png" type="image/png" rel="icon" />
+                <link sizes="16x16" href="/elements/favicon-16x16.png" type="image/png" rel="icon" />
+                <link color="#0198b5" href="/elements/favicon-safari-pinned-tab.svg" rel="mask-icon" />
                 <meta content="#ffffff" name="theme-color" />
                 <meta content="Portail insoumis" name="apple-mobile-web-app-title" />
                 <meta content="Portail insoumis" name="application-name" />
                 <meta charset="utf-8" />
-                <link href="/includes/manifest.json" rel="manifest">
+                <link href="/includes/manifest.json" rel="manifest" />
                 <meta content="Portail insoumis" property="og:title" />
                 <meta content="website" property="og:type" />
                 <meta content="https://checklist.insoumis.online/" property="og:url" />
