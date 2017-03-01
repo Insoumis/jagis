@@ -10,15 +10,15 @@
                 <link sizes="32x32" href="/elements/favicon-32x32.png" type="image/png" rel="icon">
                 <link sizes="16x16" href="/elements/favicon-16x16.png" type="image/png" rel="icon">
                 <link color="#0198b5" href="/elements/favicon-safari-pinned-tab.svg" rel="mask-icon">
-                <meta content="#ffffff" name="theme-color">
-                <meta content="Portail insoumis" name="apple-mobile-web-app-title">
-                <meta content="Portail insoumis" name="application-name">
-                <meta charset="utf-8">
+                <meta content="#ffffff" name="theme-color" />
+                <meta content="Portail insoumis" name="apple-mobile-web-app-title" />
+                <meta content="Portail insoumis" name="application-name" />
+                <meta charset="utf-8" />
                 <link href="/includes/manifest.json" rel="manifest">
-                <meta content="Portail insoumis" property="og:title">
-                <meta content="website" property="og:type">
-                <meta content="https://checklist.insoumis.online/" property="og:url">
-                <meta content="http://checklist.insoumis.online/elements/open-graph.jpg" property="og:image">
+                <meta content="Portail insoumis" property="og:title" />
+                <meta content="website" property="og:type" />
+                <meta content="https://checklist.insoumis.online/" property="og:url" />
+                <meta content="http://checklist.insoumis.online/elements/open-graph.jpg" property="og:image" />
                 <title>Checklist du militant Insoumis</title>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
                 <style type="text/css">
